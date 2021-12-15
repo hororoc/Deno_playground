@@ -1,1 +1,1 @@
-# flutter - clean_architecture_examples
+# flutter_clean_architecture_examples
