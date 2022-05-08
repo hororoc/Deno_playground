@@ -1,1 +1,1 @@
-# flutter_clean_architecture_examples
+# Git playground
